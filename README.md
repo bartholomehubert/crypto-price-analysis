@@ -1,3 +1,3 @@
-# Simple crypto price analaysis projects
+# Simple crypto price analysis project
 
-Aims to forecast crypto prices with deepl learning
+Aims to forecast crypto prices with deep learning
